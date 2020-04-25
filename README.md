@@ -3,8 +3,8 @@
 Hey there! I've wanted to improve my programming skills for a while now, and used the book "Introduction to Java Programming, Comphrensive Version (9th Edition)", written by Y. Daniel Lang in a previous class, so I decided to try and complete the entirety of the book and its exercises. Hopefully when I complete the book, I can fill the gaps in my knowledge and leave with a better understanding of Java and Object-Oriented Programming. This repository hosts my solutions to the exercises. 
 
 ## Part I: Fundamentals of Programming (230 Exercises)
-* [ ] Chapter 1 - Introduction to Computers, Programs and Java (12 Exercises) 
-* [ ] Chapter 2 - Elementary Programming (27 Exercises)
+* [x] Chapter 1 - Introduction to Computers, Programs and Java (12 Exercises) 
+* [x] Chapter 2 - Elementary Programming (27 Exercises)
 * [ ] Chapter 3 - Selections (35 Exercises)
 * [ ] Chapter 4 - Loops (47 Exercises)
 * [ ] Chapter 5 - Methods (39 Exercises)
